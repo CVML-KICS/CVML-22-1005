@@ -16,5 +16,6 @@ There was no preprocessing of dataset was involved in this stage.
 ## Results
 •	Got 90% accuracy value for validation samples
 
-
+## Documentation
+Access the Prepared Dataset and Report from [here](paset google drive link here)
 
